@@ -1,0 +1,10 @@
+ADMESSIEV,L'Arlesienne,ADMESSIEV@Amir.leo.fr,0602020305
+BARAS,null,BARAS@Alexis.leo.fr,0645020306
+BARAS,null,BARAS@Martin.leo.fr,0602044307
+BERTHOD,Les 3 Mousquetaires,BERTHOD@Loris .leo.fr,0602330308
+BOCCHETTI ,null,BOCCHETTI @Francesco.leo.fr,0702020309
+CARPENTIER ,null,CARPENTIER @Valentin.leo.fr,06122020310
+CAYUELA ,null,CAYUELA @Julian.leo.fr,0607820311
+CHEVALIER ,null,CHEVALIER @Thomas.leo.fr,0782020312
+KHALFALLAH ,En attendant Godot,KHALFALLAH @Rayene.leo.fr,0673020313
+MÉNAGER ,null,MÉNAGER @Yohan.leo.fr,0643020314

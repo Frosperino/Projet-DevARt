@@ -1,0 +1,8 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+client		TAR	136	nouvelle taille enregistrement : 136
+client		IDE+*		fichier avec identifiant
+client	cli_num	CNW	Identifiant automatique (8 octets)$Entier sur 4 octets	la rubrique cli_num a pour nouveau type Identifiant automatique (8 oct
+client	cli_telephone	CNW	Entier sur 8 octets$Entier sur 4 octets	la rubrique cli_telephone a pour nouveau type Entier sur 8 octets
+client	cli_prenom	RUB+		cli_prenom est une nouvelle rubrique
+Devis		TAR	90	nouvelle taille enregistrement : 90
+Devis	dev_numero	CNW	Entier sur 8 octets$Entier sur 4 octets	la rubrique dev_numero a pour nouveau type Entier sur 8 octets

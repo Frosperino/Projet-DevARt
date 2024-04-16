@@ -1,0 +1,6 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+client		NNF*	clients	nouveau nom client
+client	cli_num	NNR	cli_id	ATTENTION : la clé cli_id a pour nouveau nom cli_num
+client	cli_num	CLEU*		la rubrique cli_num est maintenant une clé
+Devis		NFI		nouveau fichier
+FK_Devis_client		NWL	client (cli_num) et Devis (dev_numero)	Nouvelle liaison entre les fichiers client (cli_num) et Devis (dev_numero)
